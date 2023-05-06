@@ -1,0 +1,35 @@
+inventory
+check HomeKey
+get homekey
+check dust
+inventory
+go n
+get coffeemug
+check coffeemug
+get chair
+check chair
+go n
+go s
+go e
+get carkey
+check carkey
+go e
+get corn
+check corn
+get corn
+get corn
+check dust
+get dust
+go w
+go w
+go n
+check suspiciousdust
+get suspiciousdust
+check suspiciousdust
+go s
+go e
+go s
+go s
+go s
+quit
+n

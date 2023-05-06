@@ -1,0 +1,15 @@
+"TOURNAMENT RESULTS:"
+"First Player (Win:Loss) Ratios:"
+,"Second Player"
+"First Player","0-BK","1-ModSimple"
+"0-BK",,"(5:2)"
+"1-ModSimple","(4:2)",
+
+
+"SUMMARY STATISTICS"
+"The winner of this table is determined by most winning matches."
+"Ties are broken according to total game wins."
+"Further ties are broken according to total points across all games."
+,"Match Wins","Total Game Wins","Total Points"
+0-BK,1,7,322
+1-ModSimple,1,6,350

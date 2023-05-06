@@ -1,0 +1,224 @@
+
+
+A.C. 2062
+You are a forlorn man, striving to exist on this dusty, withering planet, Earth.
+
+You are at: Front door
+You are at your Home's front door. Dust. Dust everywhere...
+It's almost impossible to breathe.
+Possible exits: East North
+You see: HomeKey Door Dust
+Your action: inventory
+
+You are holding: 
+
+You are at: Front door
+Possible exits: East North
+You see: HomeKey Door Dust
+Your action: check HomeKey
+
+HomeKey: Open the front door of your home.
+
+You are at: Front door
+Possible exits: East North
+You see: HomeKey Door Dust
+Your action: get homekey
+
+You are at: Front door
+Possible exits: East North
+You see: Door Dust
+Your action: check dust
+
+Dust: These things are everywhere
+
+You are at: Front door
+Possible exits: East North
+You see: Door Dust
+Your action: inventory
+
+You are holding: -HomeKey- 
+
+You are at: Front door
+Possible exits: East North
+You see: Door Dust
+Your action: go n
+
+You are at: Home
+You are in the living room of your home. You can hear wind wuthering.
+You are relaxed.
+Possible exits: East North South
+You see: CoffeeMug Chair Table
+Your action: get coffeemug
+
+You are at: Home
+Possible exits: East North South
+You see: Chair Table
+Your action: check coffeemug
+
+CoffeeMug: Sorry, you cannot drink coffee in this free-to-play version of the game.
+
+You are at: Home
+Possible exits: East North South
+You see: Chair Table
+Your action: get chair
+
+You can't get that item
+
+You noticed a sandstorm at the horizon...
+"Not again...", you said to yourself.
+"I still have a couple hours?"
+You are at: Home
+Possible exits: East North South
+You see: Chair Table
+Your action: check chair
+
+Chair: A chair...
+
+You are at: Home
+Possible exits: East North South
+You see: Chair Table
+Your action: go n
+
+You are at: Study
+You love your study, sometimes it seems this is the only place you belong. 
+Your inspiration and existence sparkles.
+Possible exits: South
+You see:
+Your action: go s
+
+You are at: Home
+Possible exits: East North South
+You see: Chair Table
+Your action: go e
+
+You are at: Garage
+You see your trusty old car. You wanted to name him Carl.
+But it'd be a little strange isn't it?
+Possible exits: East North West
+You see: CarKey
+Your action: get carkey
+
+You are at: Garage
+Possible exits: East North West
+You see:
+Your action: check carkey
+
+CarKey: Your mighty key to a horse with the power of over 300.
+
+You are at: Garage
+Possible exits: East North West
+You see:
+Your action: go e
+
+You are at: Corn Field
+The corn field, the middle of nowhere. Corns... 
+It's the only crop left on this planet.
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn
+Your action: get corn
+
+You are at: Corn Field
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn
+Your action: check corn
+
+Corn: Tasty corn from gettysburg. Cannot be eaten in this free-to-play version 
+Purchase the full game to unlock functionality
+
+You are at: Corn Field
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn
+Your action: get corn
+
+The sandstorm is here!
+You realized you forgot to shut your window in the Study.
+You are at: Corn Field
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Dust Dust Dust
+Your action: get corn
+
+You are at: Corn Field
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Dust Dust Dust
+Your action: check dust
+
+Dust: These things are everywhere
+
+You are at: Corn Field
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Dust Dust Dust
+Your action: get dust
+
+You are at: Corn Field
+Possible exits: West
+You see: Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Corn Dust Dust
+Your action: go w
+
+You are at: Garage
+Possible exits: East North West
+You see: Dust Dust
+Your action: go w
+
+You are at: Home
+Possible exits: East North South
+You see: Chair Table Dust Dust Dust
+Your action: go n
+
+You are at: Study
+Possible exits: South
+You see: Dust SuspiciousDust
+Your action: check suspiciousdust
+
+SuspiciousDust: Appeared after the dust storm. It looks like its arranged in some pattern.
+
+You are at: Study
+Possible exits: South
+You see: Dust SuspiciousDust
+Your action: get suspiciousdust
+
+You are at: Study
+Possible exits: South
+You see: Dust
+Your action: check suspiciousdust
+
+SuspiciousDust: Appeared after the dust storm. It looks like its arranged in some pattern.
+You try to decode the binary. You get a set of coordinates. 
+-New location unlocked-
+
+You are at: Study
+Possible exits: South
+You see: Dust
+Your action: go s
+
+You are at: Home
+Possible exits: East North South
+You see: Chair Table Dust Dust Dust
+Your action: go e
+
+You are at: Garage
+Possible exits: East North South West
+You see: Dust Dust
+Your action: go s
+
+Congratuations! You have reached NASA! Now a whole new adventure awaits! 
+ This is the end of this free-to-play. Purchase the game to unlock full story
+You are at: Spacestation
+NASA!!!!!!
+Possible exits: North South
+You see: Dust
+Your action: go s
+
+You are at: spaceship
+You are in the spaceship. 
+You are not allowed to come here! Purchase the full game!
+Possible exits: East North South West
+You see: Dust Dust
+Your action: go s
+
+You are at: Dr.Mann's planet
+Top secret stuff. Please purchase the full to continue.
+Possible exits:
+You see:
+Your action: quit
+Please have more determination.
+Would you like to restart? (y/n)

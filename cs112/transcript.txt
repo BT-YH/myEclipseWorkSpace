@@ -1,0 +1,95 @@
+Path between Glat and McCreary
+You're between the mighty castle Glatfetler Hall, and ... McCreary
+Possible exits: e w
+You see: squirrel
+? 
+take HomeKey
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+inventory
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to Home
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to Study
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+take Dust
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+look
+Path between Glat and McCreary
+You're between the mighty castle Glatfetler Hall, and ... McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to Home
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to Garage
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+drop HomeKey
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+drop Dust
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+get CarKey
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to CornField
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to Garage
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go to Space Station
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
+go Home
+You can't go that way
+Path between Glat and McCreary
+Possible exits: e w
+You see: squirrel
+? 
