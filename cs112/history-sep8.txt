@@ -1,0 +1,100 @@
+   14  less test3.txt
+   15  gedit test4.txt & This is yet another test.
+   16  ls
+   17  ls
+   18  ls -a
+   19  touch testrm.txt
+   20  ls
+   21  rm testrm.txt 
+   22  ls
+   23  ls ..
+   24  mv test2.txt ../subdir2
+   25  ls
+   26  ls ../subdir2
+   27  cp test3.txt ../subdir2
+   28  ls
+   29  ls ../subdir2
+   30  pwd
+   31  ls
+   32  cp /Accounts/turing/students/s20/tangyi02/test/subdir2/test3.txt /Accounts/turing/students/s20/tangyi02/test/subdir1
+   33  /A
+   34  cp /Accounts/turing/students/s26/tangyi02/test/subdir2/test2.txt /Accounts/turing/students/s26/tangyi02/test/subdir1
+   35  ls
+   36  find . -name *sub*
+   37  cd
+   38  find . -name *sub*
+   39  grep -Ril "test" test
+   40  man find
+   41  (pwd; history) | cat >> READMEasfd
+   42  ls
+   43  mkdir homework
+   44  (pwd; history) | cat >> README
+   45  eclipse &
+   46  ls
+   47  cd CS112
+   48  ls
+   49  cd homework
+   50  ls
+   51  cd hw1
+   52  ls
+   53  submit112 hw1
+   54  less feedback.txt
+   55  ls
+   56  sftp
+   57  scp
+   58  man sftp
+   59  java -v
+   60  java --version
+   61  java -version
+   62  java
+   63  python
+   64  python3
+   65  submit112 ex1
+   66  '/Accounts/turing/students/s26/tangyi02/CS112/homework/Independent/ex1' 
+   67  submit112 ex1
+   68  cd CS112/homework/Independent/ex1/
+   69  ls
+   70  gedit README &
+   71  ls
+   72  submit112 ex1
+   73  ls
+   74  less feedback.txt 
+   75  javac LineLength.java 
+   76  java LineLength
+   77  cd CS112/homework/Independent/ex1/
+   78  cp * ~/eclipse-workspace/hw112/
+   79  cd ~/eclipse-workspace/hw112/
+   80  ls
+   81  submit112 ex1
+   82  ls
+   83  ls less feedback
+   84  less feedback
+   85  less feedback.txt
+   86  cd CS112/homework/Pair/hw2
+   87  submit112 hw2
+   88  less feedback
+   89  less feedback.txt 
+   90  less feedback.txt
+   91  submit112 hw2
+   92  cd
+   93  cd CS112/homework/Pair/hw2
+   94  ls
+   95  less feedback.txt
+   96  cd CS112/homework/Pair/hw2
+   97  ls
+   98  submit112 hw2
+   99  ls
+  100  ls
+  101  cd CS112/homework/Pair/hw2
+  102  ls
+  103  less PerfectShuffler.java 
+  104  gedit test.txt &
+  105  ls
+  106  cd
+  107  ls
+  108  cd ~/eclipse-workspace/cs112
+  109  ls
+  110  java PerfectShuffler < test.txt
+  111  java PerfectShuffler < test.txt > test-out.txt
+  112  history
+  113  history > history-sep8.txt
